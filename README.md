@@ -1,2 +1,11 @@
-# Excel-Project---Interactive-Dashboard
-This project focuses on creating an interactive dashboard by integrating data from multiple sources, including SQL databases, CSV files, and PDF. The key steps include: Using Power Query to extract, clean, and load data from external sources. Then I build a relationship model, used pivot chart and slicers for making an interactive dashboard.
+# 📊 Interactive Data Dashboard with Power Query – Excel Project
+
+This project demonstrates the creation of an interactive Excel dashboard by integrating data from various sources, including SQL databases, CSV files, and PDFs. 
+
+## Key Steps:
+- 🔄 **Power Query**: Extract, clean, and load data from external sources.
+- 🔗 **Relationship Model**: Build a robust data model for seamless connections.
+- 📊 **Pivot Charts & Slicers**: Design interactive charts and dynamic dashboards for actionable insights.
+
+This project showcases the power of Excel in transforming raw data into a user-friendly, interactive dashboard for efficient analysis and decision-making.
+
